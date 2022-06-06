@@ -1,3 +1,5 @@
 # A new Repo
 
-Testing RStudio integration
+Testing RStudio integration.
+
+Another line
